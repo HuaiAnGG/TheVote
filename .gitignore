@@ -1,0 +1,27 @@
+# Project exclude paths
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+resource/rebel.xml
+src/rebel.xml
+
+# Eclipe
+.project
+.classpath
+.settings/
+
+# Output dirs
+out/
+target/
+classes/
+bin/
+build/
+docs/
+.gradle/
+sshj.jar
+
+# MacOS X
+.DS_Store
